@@ -16,3 +16,7 @@ You might be lucky enough to get a "Missing Project or Library" error from Excel
 7. On Visual Basic, click save and then click Debug > Compile VBAProject
 8. Save in VB and Save in the Excel spreadsheet & then close the file
 9. Open it and Enable Macros. Should work now.
+
+Issue occurrences:
+- 12/16/2014 (initial)
+- 1/27/2015 (after Stephen pasted in data while I was working remote in SF for Symposium)
